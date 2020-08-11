@@ -34,4 +34,4 @@ if __name__ == '__main__':
 
     # In this case it is NOT necessary to store the results in DB, because we are not going to use it again.
     conn = sqlite3.connect('test.db')
-    company.to_sql('Company', conn, if_exists='replace', index=False)
+    companies_in_offices_buildings.to_sql('CompaniesInOfficeBuildings', conn, if_exists='replace', index=False)
