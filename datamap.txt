@@ -1,0 +1,36 @@
+---------------------------------
+AddressBuilding.csv
+---------------------------------
+[AddressCode] - Address Code, identifier of the address (in CZ - Adresni misto)
+[AddressText] - Full text address
+[ObjectCode] - Identifier of the buidling
+[CompletedAt] - When was the building completed
+[UsageCode] - Enumeration of the declared usage of the building from the Czech Cadaster Office (may be misleading)
+[UsageLabel] - Declared usage of the building
+[Area] - Area of the building in m2
+[FloorCount] - number of floors the building has
+[FlatCount] - number of flats declaratively planne for the building
+[ElevatorCode] - Enumeration for the elevator usage information
+[ElevatorLabel] - Usage of elevator in the building
+
+---------------------------------
+AddressCompany.csv
+---------------------------------
+[AddressCode] - Address Code, identifier of the address  (in CZ - Adresni misto)
+[Latitude] GPS.Lat
+[Longitude] GPS.Lon
+[CompanyIN] - Company register ID
+[IsHq] - has the company its headquarters on this address code
+
+---------------------------------
+Company.csv
+---------------------------------
+[CompanyIN] - Company register ID
+[LegalFormID] - Enumeration for LegalForm
+[LegalFormName] - Legal Form
+[EmployeeLowerBound] - Lower Bound of Employee Category (imagine the information is 20 - 50 employees, this column will have 20 - ie. the lower bound)
+[ActivityScore] - estimate of the activity of the company (how alive is the company) on a standard scale of 0-100
+[NaceCode] - CZ-NACE classification
+[Nace] - CZ-NACE classification
+[NaceSectionCode] - CZ-NACE classification
+[NaceSection] - CZ-NACE classification

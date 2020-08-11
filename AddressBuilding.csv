@@ -1,0 +1,651 @@
+﻿AddressCode;AddressText;ObjectCode;CompletedAt;UsageCode;UsageLabel;Area;FloorCount;FlatCount;ElevatorCode;ElevatorLabel
+22348522;Sokolovská 1/69, Praha, 18600;22212086;NULL;6;bytový dům;NULL;NULL;42;NULL;NULL
+22348531;Sokolovská 4/41, Praha, 18600;22212108;NULL;6;bytový dům;NULL;1;21;1;S výtahem
+22348743;Sokolovská 26/12, Praha, 18600;22212299;NULL;17;stavba pro dopravu;NULL;NULL;0;9;Nezjištěno
+22348930;Sokolovská 40/57, Praha, 18600;22212434;NULL;3;objekt k bydlení;NULL;1;38;1;S výtahem
+22349103;Křižíkova 56/75, Praha, 18600;22212574;NULL;3;objekt k bydlení;NULL;1;25;1;S výtahem
+22349120;Karlínské náměstí 59/12, Praha, 18600;22212591;NULL;14;stavba pro administrativu;535;7;0;1;S výtahem
+22349286;Pobřežní 77/11, Praha, 18600;22212736;NULL;3;objekt k bydlení;NULL;1;4;2;Bez výtahu
+22349472;Sokolovská 92/74, Praha, 18600;22212884;NULL;3;objekt k bydlení;NULL;1;20;1;S výtahem
+22349511;Pobřežní 95/74, Praha, 18600;22212914;NULL;3;objekt k bydlení;NULL;1;7;2;Bez výtahu
+22349529;Pobřežní 97/40, Praha, 18600;22212922;NULL;3;objekt k bydlení;NULL;1;13;2;Bez výtahu
+22349618;Sokolovská 105/76, Praha, 18600;22213007;NULL;3;objekt k bydlení;NULL;NULL;16;NULL;NULL
+22349791;Pobřežní 122/70, Praha, 18600;22213171;NULL;6;bytový dům;NULL;1;38;1;S výtahem
+22349901;Sokolovská 131/86, Praha, 18600;22213261;NULL;1;průmyslový objekt;NULL;1;0;9;Nezjištěno
+22350098;Křižíkova 147/77, Praha, 18600;22213406;NULL;3;objekt k bydlení;NULL;1;3;1;S výtahem
+22350241;Sokolovská 161/71, Praha, 18600;22213520;NULL;3;objekt k bydlení;NULL;1;0;1;S výtahem
+22350276;Křižíkova 165/45, Praha, 18600;22213554;NULL;3;objekt k bydlení;NULL;1;7;1;S výtahem
+22350390;Křižíkova 176/27, Praha, 18600;22213660;2011-06-30T00:00:00;6;bytový dům;450;5;9;2;Bez výtahu
+22350438;Křižíkova 179/26, Praha, 18600;22213694;NULL;6;bytový dům;NULL;1;18;1;S výtahem
+22350501;Vítkova 186/28, Praha, 18600;22213759;NULL;3;objekt k bydlení;NULL;1;10;2;Bez výtahu
+22350535;Vítkova 189/17, Praha, 18600;22213783;NULL;3;objekt k bydlení;NULL;1;14;2;Bez výtahu
+22350543;Kollárova 190/12, Praha, 18600;22213791;NULL;3;objekt k bydlení;NULL;NULL;15;NULL;NULL
+22350560;Pobřežní 192/52, Praha, 18600;22213813;NULL;14;stavba pro administrativu;NULL;1;0;9;Nezjištěno
+22350632;Vítkova 197/11, Praha, 18600;22213864;NULL;3;objekt k bydlení;NULL;NULL;49;NULL;NULL
+22350969;Křižíkova 226/16, Praha, 18600;22214127;NULL;3;objekt k bydlení;NULL;1;10;1;S výtahem
+22351019;Karlínské náměstí 235/13, Praha, 18600;22214178;NULL;3;objekt k bydlení;NULL;1;25;2;Bez výtahu
+22351035;Křižíkova 237/36a, Praha, 18600;22214194;NULL;1;průmyslový objekt;NULL;1;0;2;Bez výtahu
+22351043;Karlínské náměstí 238/6, Praha, 18600;22214208;2014-09-01T00:00:00;3;objekt k bydlení;50;5;9;1;S výtahem
+22351175;Peckova 251/1, Praha, 18600;22214321;NULL;6;bytový dům;NULL;5;7;2;Bez výtahu
+22351221;Křižíkova 255/7, Praha, 18600;22214364;NULL;6;bytový dům;NULL;1;11;1;S výtahem
+22351256;Za Poříčskou bránou 258/9, Praha, 18600;22214399;NULL;3;objekt k bydlení;NULL;1;13;2;Bez výtahu
+22351302;Křižíkova 263/24, Praha, 18600;22214445;2011-06-30T00:00:00;6;bytový dům;0;5;9;1;S výtahem
+22351396;Křižíkova 270/13, Praha, 18600;22214518;NULL;3;objekt k bydlení;NULL;1;8;2;Bez výtahu
+22351574;Vítkova 286/5, Praha, 18600;22214674;NULL;3;objekt k bydlení;NULL;1;11;2;Bez výtahu
+22351736;Peckova 301/13, Praha, 18600;22214810;NULL;5;objekt občanské vybavenosti;NULL;1;0;9;Nezjištěno
+22351744;Pobřežní 304/10, Praha, 18600;22214828;NULL;5;objekt občanské vybavenosti;NULL;NULL;0;NULL;NULL
+22351981;Křižíkova 330/89, Praha, 18600;22215026;NULL;3;objekt k bydlení;NULL;1;6;2;Bez výtahu
+22352104;Sokolovská 341/27, Praha, 18600;22215123;NULL;3;objekt k bydlení;NULL;1;6;2;Bez výtahu
+22352147;Křižíkova 345/4, Praha, 18600;22215166;NULL;5;objekt občanské vybavenosti;NULL;1;0;9;Nezjištěno
+22352422;Pobřežní 380/2, Praha, 18600;22215433;NULL;3;objekt k bydlení;NULL;1;13;2;Bez výtahu
+22352449;Za Poříčskou bránou 382/16, Praha, 18600;22215450;NULL;6;bytový dům;NULL;1;1;1;S výtahem
+22352490;Křižíkova 386/105, Praha, 18600;22215492;NULL;3;objekt k bydlení;NULL;1;25;2;Bez výtahu
+22352538;Za Poříčskou bránou 390/18, Praha, 18600;22215522;NULL;3;objekt k bydlení;NULL;1;7;2;Bez výtahu
+22352678;Pernerova 403/36, Praha, 18600;22215654;NULL;3;objekt k bydlení;NULL;1;11;2;Bez výtahu
+22352716;Březinova 407/27, Praha, 18600;22215697;NULL;6;bytový dům;NULL;1;10;2;Bez výtahu
+22352741;Kollárova 410/4, Praha, 18600;22215727;NULL;3;objekt k bydlení;NULL;1;12;2;Bez výtahu
+22352902;Křižíkova 424/127, Praha, 18600;22215859;NULL;6;bytový dům;NULL;4;8;2;Bez výtahu
+22352961;Sokolovská 428/130, Praha, 18600;22215891;NULL;6;bytový dům;NULL;1;11;1;S výtahem
+22352970;Sokolovská 429/132, Praha, 18600;22215905;NULL;3;objekt k bydlení;NULL;1;8;2;Bez výtahu
+22353020;Kaizlovy sady 433/9, Praha, 18600;22215948;NULL;3;objekt k bydlení;NULL;1;19;1;S výtahem
+22353062;Urxova 436/10, Praha, 18600;22215972;NULL;6;bytový dům;NULL;1;9;2;Bez výtahu
+22353372;Křižíkova 459/72, Praha, 18600;22216201;2014-08-04T00:00:00;6;bytový dům;130;5;18;1;S výtahem
+22353429;Lyčkovo náměstí 461/10, Praha, 18600;22216227;NULL;3;objekt k bydlení;NULL;1;8;2;Bez výtahu
+22353542;Urxova 470/1, Praha, 18600;22216316;NULL;3;objekt k bydlení;NULL;1;13;2;Bez výtahu
+22353615;Šaldova 476/9, Praha, 18600;22216375;NULL;3;objekt k bydlení;NULL;1;16;2;Bez výtahu
+22353704;Lyčkovo náměstí 482/3, Praha, 18600;22216430;NULL;6;bytový dům;NULL;1;12;2;Bez výtahu
+22353798;Křižíkova 489/66, Praha, 18600;22216502;NULL;6;bytový dům;NULL;1;23;1;S výtahem
+22353950;Šaldova 504/24, Praha, 18600;22216651;NULL;3;objekt k bydlení;NULL;1;10;2;Bez výtahu
+22354000;Lyčkovo náměstí 508/7, Praha, 18600;22216693;NULL;6;bytový dům;NULL;1;11;2;Bez výtahu
+22354123;Kubova 515/8, Praha, 18600;22216766;NULL;3;objekt k bydlení;NULL;1;5;2;Bez výtahu
+22354212;Na střelnici 522/6, Praha, 18600;22216839;NULL;6;bytový dům;NULL;6;18;2;Bez výtahu
+22354280;Na střelnici 528/4, Praha, 18600;22216898;NULL;6;bytový dům;NULL;1;8;2;Bez výtahu
+22354409;Pernerova 536/61, Praha, 18600;22216979;NULL;6;bytový dům;NULL;7;39;NULL;NULL
+22354573;Hybešova 550/11, Praha, 18600;22217100;NULL;6;bytový dům;NULL;1;28;2;Bez výtahu
+22354662;Křižíkova 557/48a, Praha, 18600;22215174;NULL;3;objekt k bydlení;NULL;5;67;1;S výtahem
+22354701;K Olympiku 563/2, Praha, 18600;22217215;NULL;3;objekt k bydlení;NULL;1;14;2;Bez výtahu
+22354735;K Olympiku 566/8, Praha, 18600;22217240;NULL;3;objekt k bydlení;NULL;1;9;9;Nezjištěno
+22354743;K Olympiku 567/10, Praha, 18600;22217258;NULL;3;objekt k bydlení;NULL;1;9;2;Bez výtahu
+22354913;Nekvasilova 584/17, Praha, 18600;22217428;NULL;6;bytový dům;NULL;1;32;2;Bez výtahu
+22354964;Nekvasilova 589/5, Praha, 18600;22217495;NULL;6;bytový dům;NULL;NULL;123;NULL;NULL
+22354999;Molákova 592/20, Praha, 18600;22217509;2011-06-30T00:00:00;6;bytový dům;2294;9;230;1;S výtahem
+22355006;Molákova 593/18, Praha, 18600;22217509;2011-06-30T00:00:00;6;bytový dům;2294;9;230;1;S výtahem
+22355031;Molákova 596/12, Praha, 18600;22217509;2011-06-30T00:00:00;6;bytový dům;2294;9;230;1;S výtahem
+22355057;Molákova 598/8, Praha, 18600;22217509;2011-06-30T00:00:00;6;bytový dům;2294;9;230;1;S výtahem
+22355219;Molákova 614/36a, Praha, 18600;22217720;NULL;5;objekt občanské vybavenosti;NULL;NULL;0;NULL;NULL
+22355367;Pod plynojemem č.ev. 164, Praha, 18600;22218131;NULL;19;jiná stavba;NULL;1;0;2;Bez výtahu
+22704825;Prvního pluku 33/9, Praha, 18600;22212361;NULL;19;jiná stavba;NULL;1;0;2;Bez výtahu
+22773576;Sokolovská 204/11, Praha, 18600;22213929;NULL;11;stavba ubytovacího zařízení;1512;10;0;2;Bez výtahu
+25942611;Sokolovská 651/136a, Praha, 18600;25449664;2004-01-29T00:00:00;14;stavba pro administrativu;1848;7;0;2;Bez výtahu
+26114691;Pernerova 653/16a, Praha, 18600;25616609;2005-02-07T00:00:00;12;stavba pro výrobu a skladování;NULL;1;0;2;Bez výtahu
+27783839;Karolinská 661/4, Praha, 18600;27255522;2009-03-27T00:00:00;14;stavba pro administrativu;5715;10;0;2;Bez výtahu
+40858634;Rohanské nábřeží 670/17, Praha, 18600;51178427;2012-05-10T00:00:00;14;stavba pro administrativu;NULL;11;NULL;NULL;NULL
+40858651;Rohanské nábřeží 670/19, Praha, 18600;51178427;2012-05-10T00:00:00;14;stavba pro administrativu;NULL;11;NULL;NULL;NULL
+73003298;Rohanské nábřeží 678/23, Praha, 18600;78339910;2014-07-08T00:00:00;14;stavba pro administrativu;4700;8;0;1;S výtahem
+75789485;U Mlýnského kanálu 687/5, Praha, 18600;88444724;2016-12-21T00:00:00;6;bytový dům;2154;11;83;1;S výtahem
+78506506;Sokolovská 694/98, Praha, 18600;94631646;2018-06-13T00:00:00;6;bytový dům;4092;12;116;1;S výtahem
+78506824;Sokolovská 694/102, Praha, 18600;94631646;2018-06-13T00:00:00;6;bytový dům;4092;12;116;1;S výtahem
+22348646;Hybešova 14/10, Praha, 18600;22212191;NULL;5;objekt občanské vybavenosti;NULL;1;0;2;Bez výtahu
+22348662;Pobřežní 18/16, Praha, 18600;22212213;NULL;5;objekt občanské vybavenosti;NULL;1;0;9;Nezjištěno
+22348735;Sokolovská 25/18, Praha, 18600;22212281;NULL;3;objekt k bydlení;NULL;1;2;2;Bez výtahu
+22348948;Sokolovská 41/7, Praha, 18600;22212442;NULL;3;objekt k bydlení;NULL;1;12;1;S výtahem
+22348999;Sokolovská 46/51, Praha, 18600;22212485;NULL;3;objekt k bydlení;NULL;5;18;2;Bez výtahu
+22349154;U Sluncové 64/10, Praha, 18600;22212621;NULL;5;objekt občanské vybavenosti;NULL;1;0;2;Bez výtahu
+22349219;Křižíkova 70/67, Praha, 18600;22212671;NULL;3;objekt k bydlení;NULL;1;4;2;Bez výtahu
+22349260;Sokolovská 75/103, Praha, 18600;22212710;NULL;3;objekt k bydlení;NULL;1;8;2;Bez výtahu
+22349294;Sokolovská 78/80, Praha, 18600;22212744;NULL;3;objekt k bydlení;NULL;1;10;2;Bez výtahu
+22349367;Thámova 84/23, Praha, 18600;22212809;NULL;3;objekt k bydlení;NULL;2;26;1;S výtahem
+22349375;Sokolovská 85/104, Praha, 18600;22212817;NULL;3;objekt k bydlení;NULL;1;12;1;S výtahem
+22349570;Sokolovská 101/99, Praha, 18600;22212965;NULL;6;bytový dům;NULL;NULL;47;NULL;NULL
+22349723;Thámova 115/22, Praha, 18600;22213104;NULL;6;bytový dům;NULL;7;17;1;S výtahem
+22349740;Thámova 117/26, Praha, 18600;22213121;NULL;5;objekt občanské vybavenosti;NULL;1;0;2;Bez výtahu
+22349804;Křižíkova 123/69, Praha, 18600;22213180;NULL;3;objekt k bydlení;NULL;1;8;2;Bez výtahu
+22349855;Sokolovská 127/38, Praha, 18600;22213228;NULL;3;objekt k bydlení;NULL;1;8;2;Bez výtahu
+22349961;Pernerova 136/45, Praha, 18600;22213317;NULL;3;objekt k bydlení;NULL;NULL;13;NULL;NULL
+22350250;Křižíkova 163/33, Praha, 18600;22213538;NULL;6;bytový dům;NULL;4;5;2;Bez výtahu
+22350292;Křižíkova 167/50, Praha, 18600;22213571;NULL;3;objekt k bydlení;NULL;1;26;1;S výtahem
+22350365;Křižíkova 173/42, Praha, 18600;22213635;NULL;3;objekt k bydlení;NULL;1;0;2;Bez výtahu
+22350683;Vítkova 202/18, Praha, 18600;22213902;NULL;3;objekt k bydlení;NULL;1;7;2;Bez výtahu
+22350705;Prvního pluku 205/23, Praha, 18600;22213937;NULL;3;objekt k bydlení;NULL;1;6;9;Nezjištěno
+22350713;Sokolovská 205/32, Praha, 18600;22213937;NULL;3;objekt k bydlení;NULL;1;6;9;Nezjištěno
+22351205;Peckova 253/5, Praha, 18600;22214348;NULL;6;bytový dům;NULL;1;44;1;S výtahem
+22351442;Sokolovská 274/142, Praha, 18600;22214551;2014-03-04T00:00:00;3;objekt k bydlení;NULL;5;11;2;Bez výtahu
+22351451;Křižíkova 275/11, Praha, 18600;22214569;NULL;5;objekt občanské vybavenosti;NULL;1;0;2;Bez výtahu
+22351515;Peckova 280/9, Praha, 18600;22214615;NULL;19;jiná stavba;NULL;1;0;2;Bez výtahu
+22351540;Křižíkova 283/10, Praha, 18600;22214640;NULL;5;objekt občanské vybavenosti;NULL;1;0;2;Bez výtahu
+22351582;Pernerova 287/15, Praha, 18600;22214682;NULL;3;objekt k bydlení;NULL;1;16;2;Bez výtahu
+22351809;Karlínské náměstí 316/7, Praha, 18600;22214887;NULL;5;objekt občanské vybavenosti;NULL;1;1;2;Bez výtahu
+22351841;Vítkova 318/1, Praha, 18600;22214909;NULL;6;bytový dům;NULL;1;12;1;S výtahem
+22351906;Pobřežní 323/6, Praha, 18600;22214950;NULL;5;objekt občanské vybavenosti;NULL;1;1;2;Bez výtahu
+22351931;Pernerova 326/18, Praha, 18600;22214984;NULL;3;objekt k bydlení;NULL;1;20;2;Bez výtahu
+22351957;Sokolovská 327/29, Praha, 18600;22214992;NULL;3;objekt k bydlení;NULL;1;10;2;Bez výtahu
+22351965;Křižíkova 328/81, Praha, 18600;22215000;NULL;3;objekt k bydlení;NULL;1;9;2;Bez výtahu
+22352015;Vítkova 333/36, Praha, 18600;22215051;NULL;3;objekt k bydlení;NULL;1;20;2;Bez výtahu
+22352023;Za Poříčskou bránou 334/4, Praha, 18600;22215069;NULL;19;jiná stavba;NULL;1;4;1;S výtahem
+22352040;Prvního pluku 335/13, Praha, 18600;22215077;NULL;3;objekt k bydlení;NULL;1;10;2;Bez výtahu
+22352082;Pobřežní 339/72, Praha, 18600;22215107;NULL;5;objekt občanské vybavenosti;NULL;NULL;0;NULL;NULL
+22352279;Pobřežní 362/44, Praha, 18600;22215301;NULL;6;bytový dům;NULL;3;4;2;Bez výtahu
+22352384;Karlínské náměstí 376/10, Praha, 18600;22215395;NULL;3;objekt k bydlení;NULL;1;14;2;Bez výtahu
+22352601;Thámova 396/1, Praha, 18600;22215581;NULL;3;objekt k bydlení;NULL;1;7;2;Bez výtahu
+22352805;Sokolovská 415/122, Praha, 18600;22215778;NULL;3;objekt k bydlení;NULL;1;6;2;Bez výtahu
+22352821;Šaldova 417/26, Praha, 18600;22215794;NULL;3;objekt k bydlení;NULL;1;8;2;Bez výtahu
+22353046;Kaizlovy sady 434/13, Praha, 18600;22215956;NULL;6;bytový dům;NULL;6;27;1;S výtahem
+22353054;Křižíkova 435/109, Praha, 18600;22215964;NULL;3;objekt k bydlení;NULL;1;6;2;Bez výtahu
+22353071;Urxova 437/9, Praha, 18600;22215981;NULL;3;objekt k bydlení;NULL;1;9;2;Bez výtahu
+22353259;Lyčkovo náměstí 450/2, Praha, 18600;22216111;NULL;7;rodinný dům;NULL;1;9;2;Bez výtahu
+22353305;Sokolovská 454/126, Praha, 18600;22216154;NULL;3;objekt k bydlení;NULL;1;9;2;Bez výtahu
+22353348;Křižíkova 457/125, Praha, 18600;22216189;NULL;3;objekt k bydlení;NULL;1;15;1;S výtahem
+22353461;Křižíkova 464/117, Praha, 18600;22216251;NULL;6;bytový dům;NULL;4;10;2;Bez výtahu
+22353488;Šaldova 466/34, Praha, 18600;22216278;NULL;3;objekt k bydlení;NULL;1;2;1;S výtahem
+22353496;Sokolovská 467/114, Praha, 18600;22216286;NULL;3;objekt k bydlení;NULL;5;8;2;Bez výtahu
+22353844;Pernerova 494/48, Praha, 18600;22216553;NULL;19;jiná stavba;NULL;1;0;9;Nezjištěno
+22353909;Křižíkova 500/76, Praha, 18600;22216618;NULL;3;objekt k bydlení;NULL;1;12;2;Bez výtahu
+22354247;Březinova 524/31, Praha, 18600;22216855;NULL;6;bytový dům;NULL;1;17;1;S výtahem
+22354263;Kubova 526/4, Praha, 18600;22216871;NULL;3;objekt k bydlení;NULL;1;10;2;Bez výtahu
+22354271;Hybešova 527/3, Praha, 18600;22216880;NULL;3;objekt k bydlení;NULL;1;6;2;Bez výtahu
+22354506;Šaldova 544/6, Praha, 18600;22217045;NULL;6;bytový dům;NULL;1;22;2;Bez výtahu
+22354671;Pernerova 558/44, Praha, 18600;22217185;NULL;3;objekt k bydlení;NULL;1;18;2;Bez výtahu
+22354689;Pernerova 559/44a, Praha, 18600;22217193;NULL;3;objekt k bydlení;NULL;1;18;2;Bez výtahu
+22354832;Molákova 576/11, Praha, 18600;22217347;NULL;5;objekt občanské vybavenosti;NULL;1;0;2;Bez výtahu
+22354841;Molákova 577/34, Praha, 18600;22217355;NULL;6;bytový dům;NULL;1;159;1;S výtahem
+22355111;U Sluncové 604/7, Praha, 18600;22217622;NULL;3;objekt k bydlení;NULL;1;31;1;S výtahem
+22355154;U Sluncové 608/17, Praha, 18600;22217681;NULL;6;bytový dům;NULL;NULL;76;NULL;NULL
+22355162;U Sluncové 609/15, Praha, 18600;22217681;NULL;6;bytový dům;NULL;NULL;76;NULL;NULL
+22698663;Sokolovská 81/55, Praha, 18600;22212779;NULL;5;objekt občanské vybavenosti;NULL;NULL;3;NULL;NULL
+22765751;Sokolovská 633/66a, Praha, 18600;22217908;NULL;19;jiná stavba;NULL;NULL;0;9;Nezjištěno
+27613372;Křižíkova 148/34, Praha, 18600;27089479;2008-09-11T00:00:00;14;stavba pro administrativu;2345;10;0;2;Bez výtahu
+27989518;Křižíkova 53/52b, Praha, 18600;22212540;NULL;6;bytový dům;NULL;33;98;NULL;NULL
+27989666;Sokolovská 663/136c, Praha, 18600;27456501;2009-11-23T00:00:00;20;víceúčelová stavba;670;3;0;NULL;NULL
+28339584;U Sluncové 664/1a, Praha, 18600;27797732;2011-01-31T00:00:00;6;bytový dům;795;10;91;9;Nezjištěno
+72663006;Pernerova 676/51, Praha, 18600;78039223;2014-04-01T00:00:00;15;stavba občanského vybavení;3040;11;0;1;S výtahem
+22348603;Pernerova 10/32, Praha, 18600;22212167;NULL;3;objekt k bydlení;NULL;1;20;2;Bez výtahu
+22348638;Sokolovská 12/43, Praha, 18600;22212183;NULL;6;bytový dům;NULL;NULL;48;NULL;NULL
+22348778;Sokolovská 27/93, Praha, 18600;22212302;NULL;6;bytový dům;NULL;NULL;23;NULL;NULL
+22348824;Sokolovská 30/59, Praha, 18600;22212337;NULL;6;bytový dům;NULL;1;28;1;S výtahem
+22348875;Křižíkova 35/46, Praha, 18600;22212388;NULL;3;objekt k bydlení;NULL;1;26;1;S výtahem
+22348905;Sokolovská 38/87, Praha, 18600;22212418;NULL;19;jiná stavba;NULL;1;4;2;Bez výtahu
+22349065;Křižíkova 52/48c, Praha, 18600;22212531;NULL;6;bytový dům;NULL;NULL;52;NULL;NULL
+22349405;Sokolovská 87/95, Praha, 18600;22212833;NULL;19;jiná stavba;NULL;1;0;2;Bez výtahu
+22349537;Sokolovská 97/65, Praha, 18600;22212922;NULL;3;objekt k bydlení;NULL;1;13;2;Bez výtahu
+22349588;Křižíkova 102/95, Praha, 18600;22212973;NULL;6;bytový dům;NULL;4;10;2;Bez výtahu
+22350047;Prvního pluku 143/12, Praha, 18600;22213368;NULL;3;objekt k bydlení;NULL;1;5;2;Bez výtahu
+22350381;Křižíkova 175/25, Praha, 18600;22213651;NULL;6;bytový dům;NULL;1;8;2;Bez výtahu
+22350519;Šaldova 187/7, Praha, 18600;22213767;NULL;3;objekt k bydlení;NULL;1;10;2;Bez výtahu
+22350551;Thámova 191/21, Praha, 18600;22213805;NULL;3;objekt k bydlení;NULL;3;32;1;S výtahem
+22350624;Křižíkova 197/37, Praha, 18600;22213864;NULL;3;objekt k bydlení;NULL;NULL;49;NULL;NULL
+22350667;Vítkova 201/20, Praha, 18600;22213899;NULL;3;objekt k bydlení;NULL;1;11;9;Nezjištěno
+22350829;Za Poříčskou bránou 214/12, Praha, 18600;22214020;2015-03-02T00:00:00;6;bytový dům;NULL;4;10;1;S výtahem
+22350870;Křižíkova 220/91, Praha, 18600;22214071;NULL;6;bytový dům;NULL;1;9;1;S výtahem
+22350934;Prvního pluku 224/20, Praha, 18600;22214101;NULL;1;průmyslový objekt;NULL;1;0;2;Bez výtahu
+22350985;Sokolovská 231/35, Praha, 18600;22214143;2014-06-02T00:00:00;3;objekt k bydlení;155;1;14;2;Bez výtahu
+22351108;Vítkova 244/8, Praha, 18600;22214259;NULL;3;objekt k bydlení;NULL;1;0;9;Nezjištěno
+22351701;Peckova 296/15, Praha, 18600;22214771;NULL;6;bytový dům;NULL;1;0;2;Bez výtahu
+22351752;Peckova 306/11, Praha, 18600;22214836;NULL;3;objekt k bydlení;NULL;1;8;2;Bez výtahu
+22352228;Za Poříčskou bránou 354/19, Praha, 18600;22215255;NULL;3;objekt k bydlení;NULL;1;8;2;Bez výtahu
+22352317;Pobřežní 370/4, Praha, 18600;22215352;NULL;5;objekt občanské vybavenosti;NULL;1;0;2;Bez výtahu
+22352406;Ke Štvanici 379/6, Praha, 18600;22215425;NULL;3;objekt k bydlení;NULL;1;12;2;Bez výtahu
+22352431;Sokolovská 381/68, Praha, 18600;22215441;NULL;3;objekt k bydlení;NULL;NULL;47;NULL;NULL
+22352546;Pernerova 391/10, Praha, 18600;22215531;NULL;6;bytový dům;NULL;1;10;1;S výtahem
+22352724;Šaldova 408/30, Praha, 18600;22215701;NULL;3;objekt k bydlení;NULL;1;7;2;Bez výtahu
+22352767;Kollárova 411/2, Praha, 18600;22215735;NULL;3;objekt k bydlení;NULL;1;7;2;Bez výtahu
+22352775;Pernerova 412/6, Praha, 18600;22215743;NULL;6;bytový dům;NULL;1;11;2;Bez výtahu
+22352783;Pernerova 413/4, Praha, 18600;22215751;NULL;3;objekt k bydlení;NULL;1;10;2;Bez výtahu
+22353101;Vítkova 439/21, Praha, 18600;22216006;NULL;3;objekt k bydlení;NULL;1;14;1;S výtahem
+22353160;Sokolovská 444/118, Praha, 18600;22216057;NULL;3;objekt k bydlení;NULL;1;14;2;Bez výtahu
+22353178;Petra Slezáka 445/15, Praha, 18600;22216065;NULL;3;objekt k bydlení;NULL;1;8;2;Bez výtahu
+22353275;Křižíkova 451/111, Praha, 18600;22216120;NULL;3;objekt k bydlení;NULL;1;17;1;S výtahem
+22353453;Křižíkova 463/113, Praha, 18600;22216243;NULL;3;objekt k bydlení;NULL;1;21;2;Bez výtahu
+22353551;Březinova 471/22, Praha, 18600;22216324;NULL;3;objekt k bydlení;NULL;1;14;2;Bez výtahu
+22353640;Pernerova 478/1, Praha, 18600;22216391;NULL;3;objekt k bydlení;NULL;1;18;2;Bez výtahu
+22353691;Lyčkovo náměstí 481/4, Praha, 18600;22216421;NULL;3;objekt k bydlení;NULL;1;10;2;Bez výtahu
+22353747;Březinova 485/18, Praha, 18600;22216464;NULL;3;objekt k bydlení;NULL;1;9;2;Bez výtahu
+22353763;Březinova 487/9, Praha, 18600;22216481;NULL;3;objekt k bydlení;NULL;6;10;1;S výtahem
+22353771;Křižíkova 488/115, Praha, 18600;22216499;NULL;3;objekt k bydlení;NULL;1;11;2;Bez výtahu
+22353968;Kubova 505/6, Praha, 18600;22216669;NULL;3;objekt k bydlení;NULL;1;11;2;Bez výtahu
+22354077;Křižíkova 512/68, Praha, 18600;22216731;2015-03-10T00:00:00;6;bytový dům;NULL;4;14;9;Nezjištěno
+22354158;Petra Slezáka 517/6, Praha, 18600;22216782;NULL;3;objekt k bydlení;NULL;1;12;2;Bez výtahu
+22354191;Hybešova 521/6, Praha, 18600;22216821;NULL;6;bytový dům;NULL;1;12;2;Bez výtahu
+22354298;Hybešova 529/7, Praha, 18600;22216901;NULL;6;bytový dům;NULL;1;11;2;Bez výtahu
+22354344;Pernerova 533/59, Praha, 18600;22216944;NULL;6;bytový dům;NULL;NULL;54;NULL;NULL
+22354425;Křižíkova 537/83, Praha, 18600;22216987;NULL;6;bytový dům;NULL;1;9;1;S výtahem
+22354565;U invalidovny 549/5, Praha, 18600;22217096;NULL;6;bytový dům;NULL;1;24;1;S výtahem
+22354697;U Sluncové 560/12, Praha, 18600;22217207;NULL;3;objekt k bydlení;NULL;1;10;2;Bez výtahu
+22354751;K Olympiku 568/12, Praha, 18600;22217266;NULL;3;objekt k bydlení;NULL;1;14;2;Bez výtahu
+22354816;Molákova 574/32, Praha, 18600;22217321;NULL;6;bytový dům;NULL;5;18;2;Bez výtahu
+22354883;Molákova 581/28, Praha, 18600;22217398;NULL;6;bytový dům;NULL;NULL;36;NULL;NULL
+22355138;U Sluncové 606/3, Praha, 18600;22217631;NULL;6;bytový dům;NULL;NULL;84;NULL;NULL
+22355189;U Sluncové 611/19, Praha, 18600;22217690;NULL;6;bytový dům;NULL;1;46;1;S výtahem
+22355251;U Sluncové 618/25, Praha, 18600;22217762;NULL;5;objekt občanské vybavenosti;NULL;1;0;2;Bez výtahu
+22698655;U nádražní lávky 81/2, Praha, 18600;22212779;NULL;5;objekt občanské vybavenosti;NULL;NULL;3;NULL;NULL
+22698698;Pobřežní 297/14, Praha, 18600;22214780;NULL;19;jiná stavba;NULL;1;4;9;Nezjištěno
+22753630;Sokolovská 630/74a, Praha, 18600;22217878;NULL;5;objekt občanské vybavenosti;NULL;NULL;0;NULL;NULL
+22754938;Vítkova 631/7a, Praha, 18600;22217886;NULL;5;objekt občanské vybavenosti;NULL;NULL;0;NULL;NULL
+22769439;Prvního pluku 347/12a, Praha, 18600;22215182;NULL;5;objekt občanské vybavenosti;NULL;1;0;2;Bez výtahu
+22772014;Pernerova 635/57, Praha, 18600;22217924;NULL;5;objekt občanské vybavenosti;NULL;1;0;2;Bez výtahu
+26210134;Karolinská 654/2, Praha, 18600;25708414;2005-10-05T00:00:00;19;jiná stavba;3380;10;0;NULL;NULL
+26653036;Rohanské nábřeží 657/9, Praha, 18600;26143305;2006-12-07T00:00:00;20;víceúčelová stavba;3800;11;222;9;Nezjištěno
+27443051;Pobřežní 658/34, Praha, 18600;26921430;2008-03-12T00:00:00;3;objekt k bydlení;NULL;1;0;2;Bez výtahu
+27939294;Sokolovská 662/136b, Praha, 18600;27407641;2009-10-19T00:00:00;14;stavba pro administrativu;1848;7;0;NULL;NULL
+40291260;Pobřežní 665/21, Praha, 18600;50601962;2011-07-25T00:00:00;14;stavba pro administrativu;3386;NULL;0;NULL;NULL
+70846740;Prvního pluku 674/29, Praha, 18600;70535574;2013-07-30T00:00:00;11;stavba ubytovacího zařízení;641;9;0;1;S výtahem
+73021199;Křižíkova 679/65a, Praha, 18600;78362369;2014-06-03T00:00:00;6;bytový dům;1454;5;43;2;Bez výtahu
+73961205;Křižíkova 682/34a, Praha, 18600;80103944;2015-04-29T00:00:00;14;stavba pro administrativu;3117;7;0;1;S výtahem
+75789264;U Mlýnského kanálu 687/3, Praha, 18600;88444724;2016-12-21T00:00:00;6;bytový dům;2154;11;83;1;S výtahem
+78027527;Nekvasilova 692/27, Praha, 18600;93337329;2018-01-22T00:00:00;6;bytový dům;2416;13;135;1;S výtahem
+78354277;Rohanské nábřeží 693/10, Praha, 18600;93997850;2018-04-23T00:00:00;14;stavba pro administrativu;2328;9;0;1;S výtahem
+22348514;Sokolovská 1/67, Praha, 18600;22212086;NULL;6;bytový dům;NULL;NULL;42;NULL;NULL
+22348654;Vítkova 15/12, Praha, 18600;22212205;NULL;5;objekt občanské vybavenosti;NULL;1;1;1;S výtahem
+22348671;Jirsíkova 19/2, Praha, 18600;22212221;NULL;5;objekt občanské vybavenosti;NULL;1;0;9;Nezjištěno
+22348808;Pobřežní 29/48, Praha, 18600;22212329;NULL;3;objekt k bydlení;NULL;NULL;36;NULL;NULL
+22348921;Pernerova 39/3, Praha, 18600;22212426;NULL;3;objekt k bydlení;NULL;1;16;1;S výtahem
+22349014;Sokolovská 47/73, Praha, 18600;22212493;NULL;14;stavba pro administrativu;NULL;3;1;2;Bez výtahu
+22349073;Křižíkova 53/52, Praha, 18600;22212540;NULL;6;bytový dům;NULL;33;98;NULL;NULL
+22349138;Křižíkova 62/93, Praha, 18600;22212604;NULL;3;objekt k bydlení;NULL;1;15;2;Bez výtahu
+22349235;U Sluncové 71/14, Praha, 18600;22212680;NULL;3;objekt k bydlení;NULL;1;0;1;S výtahem
+22349278;Křižíkova 76/61, Praha, 18600;22212728;NULL;3;objekt k bydlení;NULL;3;4;2;Bez výtahu
+22349341;Křižíkova 83/99, Praha, 18600;22212795;NULL;3;objekt k bydlení;NULL;4;5;2;Bez výtahu
+22349448;Sokolovská 90/30, Praha, 18600;22212868;NULL;3;objekt k bydlení;NULL;1;1;2;Bez výtahu
+22349456;Sokolovská 91/54, Praha, 18600;22212876;NULL;6;bytový dům;NULL;3;9;2;Bez výtahu
+22349693;Sokolovská 112/56, Praha, 18600;22213074;NULL;6;bytový dům;NULL;1;9;2;Bez výtahu
+22349782;Pernerova 121/33, Praha, 18600;22213163;NULL;3;objekt k bydlení;NULL;NULL;18;NULL;NULL
+22349898;Vítkova 130/19, Praha, 18600;22213252;NULL;3;objekt k bydlení;NULL;1;20;2;Bez výtahu
+22350209;Karlínské náměstí 156/2, Praha, 18600;22213481;NULL;6;bytový dům;NULL;1;8;2;Bez výtahu
+22350233;Křižíkova 160/71, Praha, 18600;22213511;NULL;6;bytový dům;NULL;1;31;9;Nezjištěno
+22350373;Prvního pluku 174/8, Praha, 18600;22213643;NULL;3;objekt k bydlení;NULL;NULL;5;2;Bez výtahu
+22350471;Sokolovská 182/72, Praha, 18600;22213724;NULL;3;objekt k bydlení;NULL;1;31;1;S výtahem
+22350578;Sokolovská 192/79, Praha, 18600;22213813;NULL;14;stavba pro administrativu;NULL;1;0;9;Nezjištěno
+22350764;Karlínské náměstí 209/9, Praha, 18600;22213970;NULL;3;objekt k bydlení;NULL;1;3;2;Bez výtahu
+22350772;Křižíkova 209/51, Praha, 18600;22213970;NULL;3;objekt k bydlení;NULL;1;3;2;Bez výtahu
+22351027;Vítkova 236/15, Praha, 18600;22214186;NULL;3;objekt k bydlení;NULL;1;10;2;Bez výtahu
+22351094;Vítkova 243/13, Praha, 18600;22214241;NULL;5;objekt občanské vybavenosti;NULL;1;2;2;Bez výtahu
+22351132;Vítkova 247/7, Praha, 18600;22214283;NULL;6;bytový dům;NULL;5;9;1;S výtahem
+22351213;Křižíkova 254/5, Praha, 18600;22214356;NULL;6;bytový dům;NULL;1;10;1;S výtahem
+22351299;Vítkova 262/4, Praha, 18600;22214437;NULL;3;objekt k bydlení;NULL;1;12;2;Bez výtahu
+22351337;Vítkova 265/14, Praha, 18600;22214461;2011-06-30T00:00:00;6;bytový dům;NULL;7;25;1;S výtahem
+22351361;Křižíkova 267/9, Praha, 18600;22214488;NULL;6;bytový dům;NULL;1;0;1;S výtahem
+22351388;Křižíkova 269/15, Praha, 18600;22214500;NULL;3;objekt k bydlení;NULL;1;6;2;Bez výtahu
+22351434;Pernerova 273/25, Praha, 18600;22214542;NULL;15;stavba občanského vybavení;NULL;4;1;2;Bez výtahu
+22351698;Vítkova 295/3, Praha, 18600;22214763;NULL;3;objekt k bydlení;NULL;1;8;9;Nezjištěno
+22351825;Pernerova 317/5, Praha, 18600;22214895;NULL;6;bytový dům;0;5;16;2;Bez výtahu
+22351892;Prvního pluku 322/21, Praha, 18600;22214941;NULL;3;objekt k bydlení;NULL;1;11;2;Bez výtahu
+22351922;Sokolovská 325/140, Praha, 18600;22214976;NULL;5;objekt občanské vybavenosti;NULL;1;4;2;Bez výtahu
+22352112;Sokolovská 342/19, Praha, 18600;22215131;NULL;3;objekt k bydlení;NULL;1;7;2;Bez výtahu
+22352121;Sokolovská 343/21, Praha, 18600;22215140;NULL;3;objekt k bydlení;NULL;1;10;2;Bez výtahu
+22352180;Vítkova 350/34, Praha, 18600;22215212;NULL;3;objekt k bydlení;NULL;1;20;1;S výtahem
+22352198;Sokolovská 351/25, Praha, 18600;22215221;NULL;3;objekt k bydlení;NULL;1;9;2;Bez výtahu
+22352465;Pernerova 383/29, Praha, 18600;22215468;NULL;5;objekt občanské vybavenosti;NULL;1;1;9;Nezjištěno
+22352511;Šaldova 388/5, Praha, 18600;22215506;NULL;5;objekt občanské vybavenosti;NULL;1;14;2;Bez výtahu
+22352597;U Sluncové 395/4, Praha, 18600;22215573;1897-12-31T00:00:00;5;objekt občanské vybavenosti;NULL;1;0;9;Nezjištěno
+22352635;Karlínské náměstí 399/11, Praha, 18600;22215611;NULL;3;objekt k bydlení;NULL;1;14;2;Bez výtahu
+22352708;Šaldova 406/28, Praha, 18600;22215689;NULL;6;bytový dům;NULL;1;10;2;Bez výtahu
+22352830;Šaldova 418/11, Praha, 18600;22215808;NULL;3;objekt k bydlení;NULL;1;9;2;Bez výtahu
+22352988;Urxova 430/4, Praha, 18600;22215913;NULL;6;bytový dům;NULL;1;10;1;S výtahem
+22353089;Sokolovská 438/45, Praha, 18600;22215999;NULL;3;objekt k bydlení;NULL;1;6;2;Bez výtahu
+22353402;Lyčkovo náměstí 460/6, Praha, 18600;22216219;NULL;5;objekt občanské vybavenosti;NULL;1;1;2;Bez výtahu
+22353518;Sokolovská 468/116, Praha, 18600;22216294;NULL;3;objekt k bydlení;NULL;1;21;2;Bez výtahu
+22353623;Křižíkova 477/119, Praha, 18600;22216383;NULL;3;objekt k bydlení;NULL;1;11;1;S výtahem
+22353666;Urxova 479/6, Praha, 18600;22216405;NULL;3;objekt k bydlení;NULL;1;13;2;Bez výtahu
+22353721;Urxova 483/5, Praha, 18600;22216448;NULL;3;objekt k bydlení;NULL;1;13;2;Bez výtahu
+22353755;Pernerova 486/46, Praha, 18600;22216472;NULL;19;jiná stavba;330;NULL;0;9;Nezjištěno
+22353801;Březinova 490/7, Praha, 18600;22216511;NULL;3;objekt k bydlení;NULL;1;7;2;Bez výtahu
+22353828;Březinova 492/13, Praha, 18600;22216537;NULL;6;bytový dům;NULL;1;11;1;S výtahem
+22353852;Březinova 495/11, Praha, 18600;22216561;NULL;3;objekt k bydlení;NULL;1;16;2;Bez výtahu
+22353861;Březinova 496/12, Praha, 18600;22216570;NULL;6;bytový dům;NULL;6;12;2;Bez výtahu
+22353879;Březinova 497/10, Praha, 18600;22216588;NULL;3;objekt k bydlení;NULL;1;11;2;Bez výtahu
+22354085;Březinova 513/2, Praha, 18600;22216740;NULL;6;bytový dům;NULL;1;24;2;Bez výtahu
+22354166;Petra Slezáka 518/5, Praha, 18600;22216791;NULL;3;objekt k bydlení;NULL;1;5;2;Bez výtahu
+22354174;Hybešova 519/5, Praha, 18600;22216804;NULL;3;objekt k bydlení;NULL;1;7;2;Bez výtahu
+22354352;Šaldova 533/2, Praha, 18600;22216944;NULL;6;bytový dům;NULL;NULL;54;NULL;NULL
+22354468;Jirsíkova 540/4, Praha, 18600;22217011;NULL;6;bytový dům;NULL;6;21;1;S výtahem
+22354476;Jirsíkova 541/1, Praha, 18600;22217029;NULL;3;objekt k bydlení;NULL;1;13;1;S výtahem
+22354603;Křižíkova 553/85, Praha, 18600;22217134;NULL;3;objekt k bydlení;NULL;NULL;14;NULL;NULL
+22354760;Nekvasilova 569/25, Praha, 18600;22217274;NULL;6;bytový dům;NULL;1;32;1;S výtahem
+22354921;Nekvasilova 585/15, Praha, 18600;22217436;NULL;6;bytový dům;NULL;1;33;1;S výtahem
+22354981;Nekvasilova 591/1, Praha, 18600;22217495;NULL;6;bytový dům;NULL;NULL;123;NULL;NULL
+22355243;Libeňský ostrov 617, Praha, 18600;22217754;NULL;5;objekt občanské vybavenosti;NULL;NULL;0;9;Nezjištěno
+24986208;Sokolovská 626/104a, Praha, 18600;24535737;1997-05-05T00:00:00;3;objekt k bydlení;NULL;NULL;15;1;S výtahem
+25154214;Rohanské nábřeží č.ev. 172/2, Praha, 18600;24693049;1999-12-02T00:00:00;10;stavba pro obchod;NULL;1;0;2;Bez výtahu
+25257081;Pod výtopnou 13/10, Praha, 18600;24789721;2000-08-19T00:00:00;5;objekt občanské vybavenosti;NULL;1;1;9;Nezjištěno
+25755226;Pobřežní 649/36, Praha, 18600;25266527;2003-04-14T00:00:00;7;rodinný dům;NULL;1;0;2;Bez výtahu
+40431436;Pobřežní 665/23, Praha, 18600;50601962;2011-07-25T00:00:00;14;stavba pro administrativu;3386;NULL;0;NULL;NULL
+40591255;Pobřežní 667/78, Praha, 18600;50900196;2012-01-26T00:00:00;14;stavba pro administrativu;1311;NULL;0;2;Bez výtahu
+40830870;Sokolovská 669/136e, Praha, 18600;51152835;2012-01-16T00:00:00;14;stavba pro administrativu;1848;NULL;0;NULL;NULL
+75889153;Thámova 688/36, Praha, 18600;88728323;2017-02-06T00:00:00;11;stavba ubytovacího zařízení;1195;10;0;1;S výtahem
+78506883;Sokolovská 694/102a, Praha, 18600;94631646;2018-06-13T00:00:00;6;bytový dům;4092;12;116;1;S výtahem
+22348620;Pernerova 11/16, Praha, 18600;22212175;NULL;20;víceúčelová stavba;NULL;5;6;2;Bez výtahu
+22348689;Křižíkova 20/12, Praha, 18600;22212230;NULL;5;objekt občanské vybavenosti;NULL;1;0;9;Nezjištěno
+22348841;Sokolovská 31/34, Praha, 18600;22212345;NULL;3;objekt k bydlení;NULL;1;6;2;Bez výtahu
+22348859;Sokolovská 32/22, Praha, 18600;22212353;NULL;3;objekt k bydlení;NULL;1;8;1;S výtahem
+22348883;Sokolovská 36/20, Praha, 18600;22212396;NULL;5;objekt občanské vybavenosti;NULL;1;1;2;Bez výtahu
+22349049;Sokolovská 49/83, Praha, 18600;22212515;NULL;15;stavba občanského vybavení;2171;3;2;2;Bez výtahu
+22349171;Sokolovská 67/46, Praha, 18600;22212647;NULL;6;bytový dům;NULL;4;13;2;Bez výtahu
+22349316;Sokolovská 79/81, Praha, 18600;22212752;NULL;6;bytový dům;NULL;1;13;1;S výtahem
+22349464;Vítkova 91/30, Praha, 18600;22212876;NULL;6;bytový dům;NULL;3;9;2;Bez výtahu
+22349626;Sokolovská 106/42, Praha, 18600;22213015;NULL;3;objekt k bydlení;NULL;1;1;9;Nezjištěno
+22349766;Thámova 119/19, Praha, 18600;22213147;NULL;6;bytový dům;NULL;7;14;1;S výtahem
+22349936;Křižíkova 134/58, Praha, 18600;22213295;NULL;19;jiná stavba;NULL;1;0;9;Nezjištěno
+22349952;Pernerova 136/43, Praha, 18600;22213317;NULL;3;objekt k bydlení;NULL;NULL;13;NULL;NULL
+22349995;Thámova 137/16, Praha, 18600;22213325;NULL;19;jiná stavba;NULL;1;0;9;Nezjištěno
+22350063;Karlínské náměstí 145/1, Praha, 18600;22213384;NULL;3;objekt k bydlení;NULL;1;18;1;S výtahem
+22350071;Sokolovská 145/66, Praha, 18600;22213384;NULL;3;objekt k bydlení;NULL;1;18;1;S výtahem
+22350080;Sokolovská 146/70, Praha, 18600;22213392;NULL;3;objekt k bydlení;NULL;1;28;1;S výtahem
+22350322;Prvního pluku 169/10, Praha, 18600;22213597;NULL;3;objekt k bydlení;NULL;NULL;7;2;Bez výtahu
+22350331;Karlínské náměstí 170/3, Praha, 18600;22213601;NULL;3;objekt k bydlení;NULL;1;7;2;Bez výtahu
+22350349;Kollárova 171/16, Praha, 18600;22213619;NULL;3;objekt k bydlení;NULL;5;12;2;Bez výtahu
+22350357;Prvního pluku 172/6, Praha, 18600;22213627;NULL;14;stavba pro administrativu;NULL;1;0;2;Bez výtahu
+22350527;Vítkova 188/22, Praha, 18600;22213775;NULL;3;objekt k bydlení;NULL;1;18;2;Bez výtahu
+22350691;Kollárova 203/10, Praha, 18600;22213911;NULL;6;bytový dům;NULL;NULL;7;2;Bez výtahu
+22350802;Křižíkova 212/49, Praha, 18600;22214003;NULL;3;objekt k bydlení;NULL;1;13;1;S výtahem
+22350837;Pobřežní 215/13, Praha, 18600;22214038;NULL;3;objekt k bydlení;NULL;1;12;2;Bez výtahu
+22350861;Šaldova 219/1, Praha, 18600;22214062;NULL;6;bytový dům;NULL;7;116;1;S výtahem
+22350918;Thámova 221/9, Praha, 18600;22214089;NULL;5;objekt občanské vybavenosti;NULL;1;0;2;Bez výtahu
+22350942;Karlínské náměstí 225/8, Praha, 18600;22214119;NULL;15;stavba občanského vybavení;NULL;1;1;9;Nezjištěno
+22351051;Křižíkova 238/53, Praha, 18600;22214208;2014-09-01T00:00:00;3;objekt k bydlení;50;5;9;1;S výtahem
+22351281;Vítkova 261/6, Praha, 18600;22214429;NULL;3;objekt k bydlení;NULL;3;21;2;Bez výtahu
+22351329;Křižíkova 264/22, Praha, 18600;22214453;NULL;3;objekt k bydlení;NULL;6;9;2;Bez výtahu
+22351523;Za Poříčskou bránou 281/15, Praha, 18600;22214623;NULL;5;objekt občanské vybavenosti;NULL;1;0;2;Bez výtahu
+22351591;Pernerova 288/17, Praha, 18600;22214691;NULL;6;bytový dům;NULL;5;9;2;Bez výtahu
+22351671;Vítkova 293/2, Praha, 18600;22214747;NULL;6;bytový dům;NULL;1;0;9;Nezjištěno
+22351680;Pernerova 294/13, Praha, 18600;22214755;NULL;3;objekt k bydlení;NULL;NULL;14;2;Bez výtahu
+22351868;Prvního pluku 320/17, Praha, 18600;22214925;NULL;14;stavba pro administrativu;NULL;1;0;9;Nezjištěno
+22351884;Prvního pluku 321/19, Praha, 18600;22214933;NULL;3;objekt k bydlení;NULL;1;8;2;Bez výtahu
+22352155;Křižíkova 346/48a, Praha, 18600;22215174;NULL;3;objekt k bydlení;NULL;5;67;1;S výtahem
+22352171;Sokolovská 349/144, Praha, 18600;22215204;NULL;3;objekt k bydlení;NULL;11;21;NULL;NULL
+22352201;Sokolovská 352/23, Praha, 18600;22215239;NULL;3;objekt k bydlení;NULL;1;13;2;Bez výtahu
+22352244;Pernerova 357/22, Praha, 18600;22215271;NULL;3;objekt k bydlení;NULL;1;11;2;Bez výtahu
+22352252;U nádražní lávky 358/5, Praha, 18600;22215280;NULL;3;objekt k bydlení;NULL;1;16;2;Bez výtahu
+22352571;Křižíkova 393/73, Praha, 18600;22215557;NULL;6;bytový dům;NULL;NULL;22;NULL;NULL
+22352651;Thámova 401/2, Praha, 18600;22215638;NULL;3;objekt k bydlení;NULL;1;16;2;Bez výtahu
+22352660;Thámova 402/4, Praha, 18600;22215646;NULL;6;bytový dům;NULL;1;17;2;Bez výtahu
+22352686;U Sluncové 404/2, Praha, 18600;22215662;NULL;14;stavba pro administrativu;NULL;1;0;9;Nezjištěno
+22352694;Kollárova 405/1, Praha, 18600;22215671;NULL;3;objekt k bydlení;NULL;1;4;2;Bez výtahu
+22353194;Křižíkova 447/74, Praha, 18600;22216081;NULL;3;objekt k bydlení;NULL;1;13;2;Bez výtahu
+22353577;Lyčkovo náměstí 472/8, Praha, 18600;22216332;NULL;6;bytový dům;NULL;7;20;1;S výtahem
+22353631;Jirsíkova 478/7, Praha, 18600;22216391;NULL;3;objekt k bydlení;NULL;1;18;2;Bez výtahu
+22353810;Březinova 491/15, Praha, 18600;22216529;NULL;3;objekt k bydlení;NULL;1;15;2;Bez výtahu
+22353836;Šaldova 493/10, Praha, 18600;22216545;NULL;6;bytový dům;NULL;1;11;2;Bez výtahu
+22353992;Sovova 507/5, Praha, 18600;22216685;NULL;3;objekt k bydlení;NULL;1;7;2;Bez výtahu
+22354115;Lyčkovo náměstí 514/5, Praha, 18600;22216758;NULL;3;objekt k bydlení;NULL;1;11;2;Bez výtahu
+22354131;Hybešova 516/2, Praha, 18600;22216774;NULL;3;objekt k bydlení;NULL;1;10;2;Bez výtahu
+22354239;Březinova 523/25, Praha, 18600;22216847;NULL;3;objekt k bydlení;NULL;1;8;2;Bez výtahu
+22354255;U invalidovny 525/7, Praha, 18600;22216863;NULL;3;objekt k bydlení;NULL;1;7;1;S výtahem
+22354522;Petra Slezáka 546/7, Praha, 18600;22217061;NULL;6;bytový dům;NULL;1;22;1;S výtahem
+22354620;Na střelnici 554/1, Praha, 18600;22217142;NULL;6;bytový dům;NULL;1;18;2;Bez výtahu
+22354778;Nekvasilova 570/23, Praha, 18600;22217282;NULL;6;bytový dům;NULL;1;33;1;S výtahem
+22354875;Molákova 580/26, Praha, 18600;22217398;NULL;6;bytový dům;NULL;NULL;36;NULL;NULL
+22354891;Molákova 582/22, Praha, 18600;22217410;NULL;6;bytový dům;NULL;NULL;36;NULL;NULL
+22354948;Nekvasilova 587/11, Praha, 18600;22217452;NULL;6;bytový dům;NULL;1;29;2;Bez výtahu
+22355049;Molákova 597/10, Praha, 18600;22217509;2011-06-30T00:00:00;6;bytový dům;2294;9;230;1;S výtahem
+22355081;Molákova 601/2, Praha, 18600;22217509;2011-06-30T00:00:00;6;bytový dům;2294;9;230;1;S výtahem
+22355120;U Sluncové 605/5, Praha, 18600;22217631;NULL;6;bytový dům;NULL;NULL;84;NULL;NULL
+22355235;Na Špitálsku 616/7, Praha, 18600;22217746;NULL;1;průmyslový objekt;NULL;1;0;9;Nezjištěno
+22703047;Sokolovská 54/112, Praha, 18600;22212558;NULL;5;objekt občanské vybavenosti;NULL;1;0;1;S výtahem
+22730885;Prvního pluku 621/8a, Praha, 18600;22217797;NULL;1;průmyslový objekt;NULL;NULL;0;NULL;NULL
+22741925;Sokolovská 627/104b, Praha, 18600;22217843;NULL;19;jiná stavba;NULL;NULL;0;9;Nezjištěno
+22768297;Prvního pluku 20/2, Praha, 18600;22212230;NULL;5;objekt občanské vybavenosti;NULL;1;0;9;Nezjištěno
+25333917;Rohanské nábřeží 642/35, Praha, 18600;24864722;2001-01-04T00:00:00;17;stavba pro dopravu;NULL;1;0;9;Nezjištěno
+25602934;Pernerova 646/28a, Praha, 18600;25122100;2002-06-12T00:00:00;5;objekt občanské vybavenosti;NULL;NULL;0;NULL;NULL
+26269503;Ke Štvanici 656/3, Praha, 18600;25765825;2006-01-24T00:00:00;14;stavba pro administrativu;3268;10;0;2;Bez výtahu
+26703408;Sokolovská 366/84, Praha, 18600;26191890;NULL;5;objekt občanské vybavenosti;NULL;1;0;2;Bez výtahu
+27469484;Pernerova 659/31a, Praha, 18600;26947161;2008-04-14T00:00:00;14;stavba pro administrativu;NULL;1;0;9;Nezjištěno
+27783847;Rohanské nábřeží 661/5, Praha, 18600;27255522;2009-03-27T00:00:00;14;stavba pro administrativu;5715;10;0;2;Bez výtahu
+72351292;Sokolovská 675/9, Praha, 18600;77733860;2014-01-24T00:00:00;14;stavba pro administrativu;682;9;0;1;S výtahem
+73003328;Rohanské nábřeží 678/27, Praha, 18600;78339910;2014-07-08T00:00:00;14;stavba pro administrativu;4700;8;0;1;S výtahem
+73003522;Rohanské nábřeží 678/25, Praha, 18600;78339910;2014-07-08T00:00:00;14;stavba pro administrativu;4700;8;0;1;S výtahem
+73003581;Rohanské nábřeží 678/29, Praha, 18600;78339910;2014-07-08T00:00:00;14;stavba pro administrativu;4700;8;0;1;S výtahem
+73347396;Křižíkova 680/10b, Praha, 18600;79012353;2015-01-01T00:00:00;14;stavba pro administrativu;238;7;0;1;S výtahem
+77976096;Pernerova 691/42, Praha, 18600;93188161;2017-12-15T00:00:00;14;stavba pro administrativu;5109;8;0;1;S výtahem
+78506654;Sokolovská 694/102b, Praha, 18600;94631646;2018-06-13T00:00:00;6;bytový dům;4092;12;116;1;S výtahem
+78506743;Sokolovská 694/100, Praha, 18600;94631646;2018-06-13T00:00:00;6;bytový dům;4092;12;116;1;S výtahem
+78506778;Sokolovská 694/100a, Praha, 18600;94631646;2018-06-13T00:00:00;6;bytový dům;4092;12;116;1;S výtahem
+22348549;Sokolovská 5/49, Praha, 18600;22212116;NULL;6;bytový dům;NULL;4;11;2;Bez výtahu
+22348557;Vítkova 5/32, Praha, 18600;22212116;NULL;6;bytový dům;NULL;4;11;2;Bez výtahu
+22348573;Křižíkova 7/57, Praha, 18600;22212132;NULL;3;objekt k bydlení;NULL;1;4;1;S výtahem
+22348701;Thámova 21/34, Praha, 18600;22212248;NULL;5;objekt občanské vybavenosti;NULL;1;0;9;Nezjištěno
+22348719;Karlínské náměstí 22/14, Praha, 18600;22212256;NULL;3;objekt k bydlení;NULL;1;11;2;Bez výtahu
+22348727;Sokolovská 24/136, Praha, 18600;22212272;NULL;19;jiná stavba;NULL;1;0;9;Nezjištěno
+22348816;Sokolovská 29/75, Praha, 18600;22212329;NULL;3;objekt k bydlení;NULL;NULL;36;NULL;NULL
+22348891;Sokolovská 37/24, Praha, 18600;22212400;NULL;3;objekt k bydlení;NULL;1;24;2;Bez výtahu
+22348913;Thámova 38/25, Praha, 18600;22212418;NULL;19;jiná stavba;NULL;1;4;2;Bez výtahu
+22349162;Sokolovská 65/26, Praha, 18600;22212639;NULL;3;objekt k bydlení;NULL;1;0;2;Bez výtahu
+22349359;Sokolovská 84/90, Praha, 18600;22212809;NULL;3;objekt k bydlení;NULL;2;26;1;S výtahem
+22349391;Pobřežní 87/68, Praha, 18600;22212833;NULL;19;jiná stavba;NULL;1;0;2;Bez výtahu
+22349430;Sokolovská 89/28, Praha, 18600;22212850;NULL;3;objekt k bydlení;NULL;3;2;2;Bez výtahu
+22349481;Sokolovská 93/78, Praha, 18600;22212892;NULL;3;objekt k bydlení;NULL;1;8;2;Bez výtahu
+22349561;Sokolovská 100/94, Praha, 18600;22212957;NULL;14;stavba pro administrativu;NULL;1;7;1;S výtahem
+22349651;Sokolovská 109/88, Praha, 18600;22213040;NULL;6;bytový dům;NULL;3;0;2;Bez výtahu
+22349774;Sokolovská 120/62, Praha, 18600;22213155;NULL;3;objekt k bydlení;NULL;1;4;2;Bez výtahu
+22349812;Pernerova 124/34, Praha, 18600;22213198;NULL;3;objekt k bydlení;NULL;1;18;2;Bez výtahu
+22349863;Sokolovská 128/82, Praha, 18600;22213236;NULL;3;objekt k bydlení;NULL;1;7;2;Bez výtahu
+22349910;Thámova 132/28, Praha, 18600;22213279;NULL;3;objekt k bydlení;NULL;1;26;1;S výtahem
+22349944;U Sluncové 135/10a, Praha, 18600;22213309;NULL;5;objekt občanské vybavenosti;NULL;1;0;2;Bez výtahu
+22350012;Křižíkova 139/47, Praha, 18600;22213341;NULL;19;jiná stavba;NULL;1;37;1;S výtahem
+22350055;Prvního pluku 144/14, Praha, 18600;22213376;NULL;3;objekt k bydlení;NULL;1;9;2;Bez výtahu
+22350152;Křižíkova 150/43, Praha, 18600;22213431;NULL;3;objekt k bydlení;NULL;5;7;2;Bez výtahu
+22350161;Vítkova 151/26, Praha, 18600;22213449;NULL;5;objekt občanské vybavenosti;NULL;1;0;2;Bez výtahu
+22350403;Křižíkova 177/29, Praha, 18600;22213678;NULL;3;objekt k bydlení;NULL;1;15;2;Bez výtahu
+22350799;Prvního pluku 211/5, Praha, 18600;22213996;NULL;19;jiná stavba;NULL;1;0;2;Bez výtahu
+22350900;Thámova 221/7, Praha, 18600;22214089;NULL;5;objekt občanské vybavenosti;NULL;1;0;2;Bez výtahu
+22350977;Vítkova 227/23, Praha, 18600;22214135;NULL;3;objekt k bydlení;NULL;1;23;2;Bez výtahu
+22350993;Sokolovská 233/37, Praha, 18600;22214151;NULL;3;objekt k bydlení;NULL;1;6;2;Bez výtahu
+22351001;Karlínské náměstí 234/5, Praha, 18600;22214160;NULL;6;bytový dům;NULL;6;16;2;Bez výtahu
+22351060;Sokolovská 240/33, Praha, 18600;22214216;NULL;3;objekt k bydlení;NULL;1;12;2;Bez výtahu
+22351078;Vítkova 241/10, Praha, 18600;22214224;NULL;5;objekt občanské vybavenosti;NULL;1;2;2;Bez výtahu
+22351159;Pobřežní 249/46, Praha, 18600;22214305;NULL;19;jiná stavba;NULL;1;0;2;Bez výtahu
+22351167;Pernerova 250/19, Praha, 18600;22214313;NULL;3;objekt k bydlení;NULL;1;6;2;Bez výtahu
+22351230;Za Poříčskou bránou 256/6, Praha, 18600;22214372;NULL;5;objekt občanské vybavenosti;NULL;1;6;9;Nezjištěno
+22351485;Sokolovská 278/113, Praha, 18600;22214593;NULL;15;stavba občanského vybavení;NULL;1;3;2;Bez výtahu
+22351639;Thámova 291/27, Praha, 18600;22214721;2001-12-31T00:00:00;5;objekt občanské vybavenosti;NULL;1;0;2;Bez výtahu
+22351647;Peckova 292/2, Praha, 18600;22214739;NULL;5;objekt občanské vybavenosti;NULL;1;1;2;Bez výtahu
+22351710;Pobřežní 299/8, Praha, 18600;22214798;NULL;5;objekt občanské vybavenosti;NULL;1;0;9;Nezjištěno
+22351761;Pernerova 307/7, Praha, 18600;22214844;NULL;3;objekt k bydlení;NULL;1;3;2;Bez výtahu
+22351787;Pobřežní 311/1, Praha, 18600;22214861;NULL;5;objekt občanské vybavenosti;NULL;1;0;9;Nezjištěno
+22352007;Křižíkova 332/1, Praha, 18600;22215042;NULL;5;objekt občanské vybavenosti;NULL;1;0;2;Bez výtahu
+22352074;Šaldova 337/15, Praha, 18600;22215093;NULL;3;objekt k bydlení;NULL;1;16;9;Nezjištěno
+22352139;Křižíkova 344/6, Praha, 18600;22215158;NULL;5;objekt občanské vybavenosti;NULL;1;0;2;Bez výtahu
+22352261;Sokolovská 359/146, Praha, 18600;22215298;NULL;3;objekt k bydlení;NULL;NULL;11;NULL;NULL
+22352309;Pobřežní 369/28, Praha, 18600;22215344;NULL;3;objekt k bydlení;NULL;1;20;2;Bez výtahu
+22352325;Ke Štvanici 371/2, Praha, 18600;22215361;NULL;5;objekt občanské vybavenosti;NULL;1;19;1;S výtahem
+22352791;Šaldova 414/32, Praha, 18600;22215760;NULL;3;objekt k bydlení;NULL;1;8;2;Bez výtahu
+22352848;Šaldova 419/16, Praha, 18600;22215816;NULL;3;objekt k bydlení;NULL;1;13;2;Bez výtahu
+22353003;Šaldova 431/22, Praha, 18600;22215921;NULL;19;jiná stavba;NULL;1;9;2;Bez výtahu
+22353011;Kaizlovy sady 432/11, Praha, 18600;22215930;NULL;3;objekt k bydlení;NULL;NULL;11;1;S výtahem
+22353224;Urxova 448/2, Praha, 18600;22216090;NULL;3;objekt k bydlení;NULL;1;14;2;Bez výtahu
+22353283;Křižíkova 452/64, Praha, 18600;22216138;NULL;3;objekt k bydlení;NULL;1;5;2;Bez výtahu
+22353526;Urxova 469/3, Praha, 18600;22216308;NULL;6;bytový dům;NULL;4;11;2;Bez výtahu
+22353607;Březinova 475/3, Praha, 18600;22216367;NULL;6;bytový dům;NULL;1;12;2;Bez výtahu
+22353682;Urxova 480/7, Praha, 18600;22216413;NULL;6;bytový dům;NULL;1;12;2;Bez výtahu
+22353976;Křižíkova 506/62, Praha, 18600;22216677;NULL;3;objekt k bydlení;NULL;1;16;2;Bez výtahu
+22354042;Březinova 510/6, Praha, 18600;22216715;NULL;3;objekt k bydlení;NULL;1;10;2;Bez výtahu
+22354182;Hybešova 520/4, Praha, 18600;22216812;NULL;3;objekt k bydlení;NULL;1;9;2;Bez výtahu
+22354310;Křižíkova 530/78, Praha, 18600;22216910;NULL;3;objekt k bydlení;NULL;1;15;2;Bez výtahu
+22354328;Petra Slezáka 531/14, Praha, 18600;22216928;NULL;3;objekt k bydlení;NULL;1;9;2;Bez výtahu
+22354433;Jirsíkova 538/5, Praha, 18600;22216995;NULL;5;objekt občanské vybavenosti;NULL;1;0;2;Bez výtahu
+22354581;Hybešova 551/9, Praha, 18600;22217118;NULL;6;bytový dům;NULL;6;33;1;S výtahem
+22354590;Křižíkova 552/2, Praha, 18600;22217126;1921-12-31T00:00:00;5;objekt občanské vybavenosti;NULL;1;0;2;Bez výtahu
+22354956;Nekvasilova 588/7, Praha, 18600;22217495;NULL;6;bytový dům;NULL;NULL;123;NULL;NULL
+22355197;U Sluncové 612/21, Praha, 18600;22217703;NULL;6;bytový dům;NULL;1;45;1;S výtahem
+22739939;Nekvasilova 625/2, Praha, 18600;22217835;NULL;19;jiná stavba;NULL;1;0;2;Bez výtahu
+22749501;Za invalidovnou 628/1, Praha, 18600;22217851;NULL;5;objekt občanské vybavenosti;NULL;NULL;0;NULL;NULL
+22769722;Křižíkova 23/48b, Praha, 18600;22212264;NULL;6;bytový dům;NULL;NULL;55;NULL;NULL
+25302841;Křižíkova 159/56, Praha, 18600;24834556;2000-11-02T00:00:00;6;bytový dům;NULL;8;30;1;S výtahem
+27177106;Pobřežní 394/12, Praha, 18600;22215565;NULL;20;víceúčelová stavba;513;8;0;9;Nezjištěno
+40315355;U Sluncové 666/12a, Praha, 18600;50624539;2011-10-24T00:00:00;6;bytový dům;723;24;26;1;S výtahem
+40830667;Sokolovská 668/136d, Praha, 18600;51153335;2012-01-16T00:00:00;14;stavba pro administrativu;1848;NULL;0;NULL;NULL
+42046211;Pernerova 673/47, Praha, 18600;53851854;2012-10-17T00:00:00;20;víceúčelová stavba;3795;1;0;9;Nezjištěno
+42046246;Pernerova 673/49, Praha, 18600;53851854;2012-10-17T00:00:00;20;víceúčelová stavba;3795;1;0;9;Nezjištěno
+72821884;Pernerova 676/53, Praha, 18600;78039223;2014-04-01T00:00:00;15;stavba občanského vybavení;3040;11;0;1;S výtahem
+74384210;Za Karlínským přístavem 683/8, Praha, 18600;80233899;2015-08-31T00:00:00;6;bytový dům;1741;11;102;1;S výtahem
+74384236;Za Karlínským přístavem 683/6, Praha, 18600;80233899;2015-08-31T00:00:00;6;bytový dům;1741;11;102;1;S výtahem
+74384597;Za Karlínským přístavem 683/4, Praha, 18600;80233899;2015-08-31T00:00:00;6;bytový dům;1741;11;102;1;S výtahem
+75437911;Sokolovská 685/136f, Praha, 18600;86526600;2016-09-21T00:00:00;14;stavba pro administrativu;3545;6;0;1;S výtahem
+78027560;Nekvasilova 692/31, Praha, 18600;93337329;2018-01-22T00:00:00;6;bytový dům;2416;13;135;1;S výtahem
+22348506;Pobřežní 1/42, Praha, 18600;22212086;NULL;6;bytový dům;NULL;NULL;42;NULL;NULL
+22348565;Sokolovská 6/85, Praha, 18600;22212124;NULL;3;objekt k bydlení;NULL;NULL;25;NULL;NULL
+22348956;Sokolovská 43/53, Praha, 18600;22212451;NULL;3;objekt k bydlení;NULL;5;5;2;Bez výtahu
+22349090;Křižíkova 55/65, Praha, 18600;22212566;NULL;6;bytový dům;NULL;1;22;1;S výtahem
+22349197;Sokolovská 68/105, Praha, 18600;22212655;NULL;19;jiná stavba;NULL;1;4;1;S výtahem
+22349201;Sokolovská 69/14, Praha, 18600;22212663;NULL;5;objekt občanské vybavenosti;NULL;1;0;9;Nezjištěno
+22349243;Sokolovská 73/63, Praha, 18600;22212698;NULL;3;objekt k bydlení;NULL;1;12;2;Bez výtahu
+22349324;Pobřežní 80/38, Praha, 18600;22212761;NULL;3;objekt k bydlení;NULL;1;7;2;Bez výtahu
+22349383;Sokolovská 86/97, Praha, 18600;22212825;NULL;3;objekt k bydlení;NULL;1;39;1;S výtahem
+22349421;Sokolovská 88/91, Praha, 18600;22212841;NULL;3;objekt k bydlení;NULL;NULL;3;NULL;NULL
+22349634;Sokolovská 107/44, Praha, 18600;22213023;NULL;5;objekt občanské vybavenosti;NULL;1;0;9;Nezjištěno
+22349731;Thámova 116/30, Praha, 18600;22213112;NULL;3;objekt k bydlení;NULL;1;16;1;S výtahem
+22349758;Thámova 118/17, Praha, 18600;22213139;NULL;6;bytový dům;NULL;1;3;2;Bez výtahu
+22349847;Sokolovská 126/40, Praha, 18600;22213210;NULL;3;objekt k bydlení;NULL;1;7;2;Bez výtahu
+22349880;Sokolovská 130/52, Praha, 18600;22213252;NULL;3;objekt k bydlení;NULL;1;20;2;Bez výtahu
+22349928;Thámova 133/24, Praha, 18600;22213287;NULL;3;objekt k bydlení;NULL;1;13;1;S výtahem
+22350101;Thámova 147/15, Praha, 18600;22213406;NULL;3;objekt k bydlení;NULL;1;3;1;S výtahem
+22350187;Vítkova 154/24, Praha, 18600;22213465;NULL;6;bytový dům;NULL;1;19;1;S výtahem
+22350225;Kollárova 158/14, Praha, 18600;22213503;NULL;6;bytový dům;NULL;5;20;2;Bez výtahu
+22350411;Křižíkova 178/31, Praha, 18600;22213686;NULL;3;objekt k bydlení;NULL;1;4;2;Bez výtahu
+22350420;Kollárova 179/20, Praha, 18600;22213694;NULL;6;bytový dům;NULL;1;18;1;S výtahem
+22350462;Thámova 181/20, Praha, 18600;22213716;NULL;14;stavba pro administrativu;NULL;1;0;2;Bez výtahu
+22350497;Křižíkova 185/35, Praha, 18600;22213741;NULL;5;objekt občanské vybavenosti;NULL;1;0;9;Nezjištěno
+22350748;Prvního pluku 207/1, Praha, 18600;22213953;NULL;19;jiná stavba;NULL;1;0;2;Bez výtahu
+22350756;Křižíkova 208/55, Praha, 18600;22213961;NULL;3;objekt k bydlení;NULL;1;7;2;Bez výtahu
+22350811;Křižíkova 213/44, Praha, 18600;22214011;NULL;20;víceúčelová stavba;2688;9;48;NULL;NULL
+22351264;Za Poříčskou bránou 259/11, Praha, 18600;22214402;NULL;3;objekt k bydlení;NULL;1;8;2;Bez výtahu
+22351353;Vítkova 266/16, Praha, 18600;22214470;NULL;14;stavba pro administrativu;NULL;1;1;1;S výtahem
+22351400;Kollárova 271/5, Praha, 18600;22214526;NULL;5;objekt občanské vybavenosti;NULL;1;1;2;Bez výtahu
+22351426;Křižíkova 272/17, Praha, 18600;22214534;NULL;3;objekt k bydlení;NULL;1;6;1;S výtahem
+22351477;Peckova 277/7, Praha, 18600;22214585;NULL;3;objekt k bydlení;NULL;1;20;2;Bez výtahu
+22351531;Malého 282/3, Praha, 18600;22214631;NULL;3;objekt k bydlení;NULL;1;0;1;S výtahem
+22351663;Pernerova 293/11, Praha, 18600;22214747;NULL;6;bytový dům;NULL;1;0;9;Nezjištěno
+22351728;Za Poříčskou bránou 300/13, Praha, 18600;22214801;NULL;6;bytový dům;NULL;1;9;2;Bez výtahu
+22351795;Za Poříčskou bránou 315/10, Praha, 18600;22214879;NULL;6;bytový dům;NULL;1;28;1;S výtahem
+22351914;Pernerova 324/26, Praha, 18600;22214968;NULL;6;bytový dům;NULL;3;6;2;Bez výtahu
+22351990;Křižíkova 331/87, Praha, 18600;22215034;NULL;5;objekt občanské vybavenosti;NULL;1;0;1;S výtahem
+22352236;Za Poříčskou bránou 355/17, Praha, 18600;22215263;NULL;3;objekt k bydlení;NULL;NULL;15;NULL;NULL
+22352295;Pod výtopnou 367/2, Praha, 18600;22215328;NULL;19;jiná stavba;NULL;NULL;0;9;Nezjištěno
+22352341;Sokolovská 371/1, Praha, 18600;22215361;NULL;5;objekt občanské vybavenosti;NULL;1;19;1;S výtahem
+22352350;Za Poříčskou bránou 372/14, Praha, 18600;22215379;NULL;3;objekt k bydlení;NULL;NULL;9;9;Nezjištěno
+22352376;Za Poříčskou bránou 375/22, Praha, 18600;22215387;NULL;3;objekt k bydlení;NULL;1;6;2;Bez výtahu
+22352392;Pernerova 378/31, Praha, 18600;22215417;NULL;3;objekt k bydlení;NULL;1;19;1;S výtahem
+22352473;Křižíkova 384/101, Praha, 18600;22215476;NULL;3;objekt k bydlení;NULL;1;10;1;S výtahem
+22352503;Šaldova 386/3, Praha, 18600;22215492;NULL;3;objekt k bydlení;NULL;1;25;2;Bez výtahu
+22352520;Za Poříčskou bránou 389/20, Praha, 18600;22215514;NULL;3;objekt k bydlení;NULL;1;8;2;Bez výtahu
+22352619;Pernerova 397/28, Praha, 18600;22215590;NULL;6;bytový dům;NULL;1;10;1;S výtahem
+22352813;Sokolovská 416/124, Praha, 18600;22215786;NULL;3;objekt k bydlení;NULL;1;7;2;Bez výtahu
+22352864;Petra Slezáka 421/16, Praha, 18600;22215824;NULL;6;bytový dům;NULL;1;10;2;Bez výtahu
+22352872;Kaizlovy sady 422/5, Praha, 18600;22215832;NULL;3;objekt k bydlení;NULL;1;4;2;Bez výtahu
+22353232;Sokolovská 449/128, Praha, 18600;22216103;NULL;3;objekt k bydlení;NULL;1;9;2;Bez výtahu
+22353291;Březinova 453/24, Praha, 18600;22216146;NULL;3;objekt k bydlení;NULL;1;10;2;Bez výtahu
+22353470;Březinova 465/17, Praha, 18600;22216260;NULL;3;objekt k bydlení;NULL;1;10;2;Bez výtahu
+22353585;Březinova 473/29, Praha, 18600;22216341;NULL;3;objekt k bydlení;NULL;1;10;2;Bez výtahu
+22353739;Jirsíkova 484/6, Praha, 18600;22216456;NULL;3;objekt k bydlení;NULL;1;9;2;Bez výtahu
+22353887;Březinova 498/8, Praha, 18600;22216596;NULL;3;objekt k bydlení;NULL;1;9;2;Bez výtahu
+22353925;Pernerova 502/50, Praha, 18600;22216634;NULL;3;objekt k bydlení;NULL;1;6;2;Bez výtahu
+22354026;Březinova 509/20, Praha, 18600;22216707;NULL;3;objekt k bydlení;NULL;1;17;2;Bez výtahu
+22354051;Petra Slezáka 511/3, Praha, 18600;22216723;NULL;3;objekt k bydlení;NULL;1;12;2;Bez výtahu
+22354336;Pernerova 532/69, Praha, 18600;22216936;NULL;3;objekt k bydlení;NULL;1;8;2;Bez výtahu
+22354361;Březinova 534/23, Praha, 18600;22216952;NULL;3;objekt k bydlení;NULL;1;16;2;Bez výtahu
+22354387;Kubova 535/2, Praha, 18600;22216961;NULL;6;bytový dům;NULL;1;19;1;S výtahem
+22354417;Pernerova 536/63, Praha, 18600;22216979;NULL;6;bytový dům;NULL;7;39;NULL;NULL
+22354531;Petra Slezáka 547/4, Praha, 18600;22217070;NULL;6;bytový dům;NULL;1;22;2;Bez výtahu
+22354549;Petra Slezáka 548/8, Praha, 18600;22217088;NULL;6;bytový dům;NULL;1;26;2;Bez výtahu
+22354638;Na střelnici 555/3, Praha, 18600;22217142;NULL;6;bytový dům;NULL;1;18;2;Bez výtahu
+22354727;K Olympiku 565/6, Praha, 18600;22217231;NULL;3;objekt k bydlení;NULL;1;9;2;Bez výtahu
+22354786;Nekvasilova 571/21, Praha, 18600;22217291;NULL;6;bytový dům;NULL;1;29;1;S výtahem
+22354794;Nekvasilova 572/19, Praha, 18600;22217304;NULL;6;bytový dům;NULL;1;29;1;S výtahem
+22354905;Molákova 583/24, Praha, 18600;22217410;NULL;6;bytový dům;NULL;NULL;36;NULL;NULL
+22354972;Nekvasilova 590/3, Praha, 18600;22217495;NULL;6;bytový dům;NULL;NULL;123;NULL;NULL
+22355146;U Sluncové 607/1, Praha, 18600;22217631;NULL;6;bytový dům;NULL;NULL;84;NULL;NULL
+22698647;Pobřežní 6/58, Praha, 18600;22212124;NULL;3;objekt k bydlení;NULL;NULL;25;NULL;NULL
+22698671;Sokolovská 101/101b, Praha, 18600;22212965;NULL;6;bytový dům;NULL;NULL;47;NULL;NULL
+22700951;Sokolovská 615/138, Praha, 18600;22217738;NULL;5;objekt občanské vybavenosti;NULL;1;0;2;Bez výtahu
+22737685;U Sluncové 624/27, Praha, 18600;22217827;NULL;5;objekt občanské vybavenosti;NULL;NULL;0;NULL;NULL
+22768238;Sokolovská 51/64, Praha, 18600;22212523;NULL;3;objekt k bydlení;NULL;1;3;9;Nezjištěno
+22768246;Pobřežní 224/20, Praha, 18600;22214101;NULL;1;průmyslový objekt;NULL;1;0;2;Bez výtahu
+25745468;Pobřežní 648/1a, Praha, 18600;25257056;2003-03-19T00:00:00;14;stavba pro administrativu;NULL;1;0;2;Bez výtahu
+25772015;Karolinská 650/1, Praha, 18600;25282611;2003-06-05T00:00:00;19;jiná stavba;NULL;1;0;2;Bez výtahu
+26238322;Pobřežní 655/54, Praha, 18600;25735781;2005-11-18T00:00:00;6;bytový dům;NULL;NULL;3;NULL;NULL
+26653028;Rohanské nábřeží 657/7, Praha, 18600;26143305;2006-12-07T00:00:00;20;víceúčelová stavba;3800;11;222;9;Nezjištěno
+26653044;Rohanské nábřeží 657/11, Praha, 18600;26143305;2006-12-07T00:00:00;20;víceúčelová stavba;3800;11;222;9;Nezjištěno
+27119327;Sokolovská 394/17, Praha, 18600;22215565;NULL;20;víceúčelová stavba;513;8;0;9;Nezjištěno
+27989500;Křižíkova 53/52a, Praha, 18600;22212540;NULL;6;bytový dům;NULL;33;98;NULL;NULL
+40944620;Rohanské nábřeží 671/15, Praha, 18600;51255529;2012-05-02T00:00:00;14;stavba pro administrativu;1318;NULL;0;NULL;NULL
+73495107;Thámova 681/32, Praha, 18600;79453201;2015-03-03T00:00:00;14;stavba pro administrativu;978;7;8;1;S výtahem
+75456133;Korybutova 686/4, Praha, 18600;86872494;2016-04-27T00:00:00;20;víceúčelová stavba;489;6;14;1;S výtahem
+76210227;Sokolovská 689/115, Praha, 18600;89837975;2017-05-09T00:00:00;14;stavba pro administrativu;2328;9;0;1;S výtahem
+22348867;Sokolovská 34/5, Praha, 18600;22212370;NULL;3;objekt k bydlení;NULL;1;10;2;Bez výtahu
+22348981;Sokolovská 45/16, Praha, 18600;22212477;NULL;15;stavba občanského vybavení;NULL;NULL;1;NULL;NULL
+22349081;Šaldova 54/13, Praha, 18600;22212558;NULL;5;objekt občanské vybavenosti;NULL;1;0;1;S výtahem
+22349502;Sokolovská 94/61, Praha, 18600;22212906;NULL;6;bytový dům;NULL;1;3;2;Bez výtahu
+22349545;Sokolovská 98/96, Praha, 18600;22212931;NULL;6;bytový dům;NULL;1;14;1;S výtahem
+22349642;Sokolovská 108/48, Praha, 18600;22213031;NULL;3;objekt k bydlení;NULL;1;13;2;Bez výtahu
+22349685;Sokolovská 111/36, Praha, 18600;22213066;NULL;3;objekt k bydlení;NULL;1;5;2;Bez výtahu
+22349707;Sokolovská 113/58, Praha, 18600;22213082;NULL;6;bytový dům;NULL;1;8;2;Bez výtahu
+22349871;Sokolovská 129/50, Praha, 18600;22213244;NULL;6;bytový dům;NULL;1;3;2;Bez výtahu
+22350004;Křižíkova 138/30, Praha, 18600;22213333;NULL;3;objekt k bydlení;NULL;1;7;2;Bez výtahu
+22350039;Prvního pluku 140/4, Praha, 18600;22213350;NULL;3;objekt k bydlení;NULL;5;17;2;Bez výtahu
+22350179;Křižíkova 153/41, Praha, 18600;22213457;NULL;3;objekt k bydlení;NULL;1;6;2;Bez výtahu
+22350217;Kollárova 157/18, Praha, 18600;22213490;NULL;3;objekt k bydlení;NULL;1;0;9;Nezjištěno
+22350268;Křižíkova 164/20, Praha, 18600;22213546;NULL;3;objekt k bydlení;NULL;1;11;9;Nezjištěno
+22350284;Thámova 166/18, Praha, 18600;22213562;NULL;1;průmyslový objekt;NULL;1;0;1;S výtahem
+22350446;Křižíkova 180/28, Praha, 18600;22213708;NULL;6;bytový dům;NULL;5;14;2;Bez výtahu
+22350489;Thámova 183/11, Praha, 18600;22213732;NULL;5;objekt občanské vybavenosti;NULL;1;0;2;Bez výtahu
+22350616;Křižíkova 196/18, Praha, 18600;22213856;NULL;3;objekt k bydlení;NULL;1;3;2;Bez výtahu
+22350730;Prvního pluku 206/7, Praha, 18600;22213945;NULL;5;objekt občanské vybavenosti;NULL;1;3;2;Bez výtahu
+22350845;Karlínské náměstí 217/4, Praha, 18600;22214054;NULL;3;objekt k bydlení;NULL;1;9;2;Bez výtahu
+22350926;Sokolovská 222/39, Praha, 18600;22214097;NULL;3;objekt k bydlení;NULL;1;14;2;Bez výtahu
+22351191;Peckova 252/3, Praha, 18600;22214330;NULL;6;bytový dům;NULL;1;14;2;Bez výtahu
+22351311;Peckova 263/17, Praha, 18600;22214445;2011-06-30T00:00:00;6;bytový dům;0;5;9;1;S výtahem
+22351469;Kollárova 276/8, Praha, 18600;22214577;NULL;3;objekt k bydlení;NULL;1;7;2;Bez výtahu
+22351493;Šaldova 278/36, Praha, 18600;22214593;NULL;15;stavba občanského vybavení;NULL;1;3;2;Bez výtahu
+22351558;Za Poříčskou bránou 284/7, Praha, 18600;22214658;NULL;5;objekt občanské vybavenosti;NULL;1;1;9;Nezjištěno
+22351566;Pobřežní 285/22, Praha, 18600;22214666;NULL;3;objekt k bydlení;NULL;1;9;2;Bez výtahu
+22351612;Thámova 289/13, Praha, 18600;22214704;NULL;5;objekt občanské vybavenosti;NULL;1;0;2;Bez výtahu
+22351621;Křižíkova 290/48, Praha, 18600;22214712;NULL;3;objekt k bydlení;NULL;1;20;1;S výtahem
+22351779;Křižíkova 308/19, Praha, 18600;22214852;NULL;3;objekt k bydlení;NULL;1;8;2;Bez výtahu
+22351850;Malého 319/1, Praha, 18600;22214917;NULL;5;objekt občanské vybavenosti;NULL;1;0;2;Bez výtahu
+22351973;Křižíkova 329/3, Praha, 18600;22215018;NULL;3;objekt k bydlení;NULL;1;8;2;Bez výtahu
+22352058;Pernerova 336/20, Praha, 18600;22215085;NULL;3;objekt k bydlení;NULL;1;0;2;Bez výtahu
+22352163;Křižíkova 348/48a, Praha, 18600;22215174;NULL;3;objekt k bydlení;NULL;5;67;1;S výtahem
+22352287;Za Poříčskou bránou 365/21, Praha, 18600;22215310;NULL;3;objekt k bydlení;NULL;1;9;2;Bez výtahu
+22352333;Ke Štvanici 371/4, Praha, 18600;22215361;NULL;5;objekt občanské vybavenosti;NULL;1;19;1;S výtahem
+22352481;Křižíkova 385/103, Praha, 18600;22215484;NULL;3;objekt k bydlení;NULL;1;11;1;S výtahem
+22352562;Pernerova 392/12, Praha, 18600;22215549;NULL;6;bytový dům;NULL;NULL;22;2;Bez výtahu
+22352627;Pernerova 398/38, Praha, 18600;22215603;NULL;3;objekt k bydlení;NULL;1;19;2;Bez výtahu
+22352732;Sokolovská 409/120, Praha, 18600;22215719;NULL;3;objekt k bydlení;NULL;1;11;1;S výtahem
+22352881;Kaizlovy sady 423/3, Praha, 18600;22215841;NULL;3;objekt k bydlení;NULL;1;6;2;Bez výtahu
+22352911;Šaldova 425/12, Praha, 18600;22215867;NULL;5;objekt občanské vybavenosti;NULL;1;0;2;Bez výtahu
+22352953;Pernerova 427/8, Praha, 18600;22215883;NULL;6;bytový dům;313;6;16;2;Bez výtahu
+22353143;Korybutova 443/2, Praha, 18600;22216049;NULL;19;jiná stavba;NULL;1;8;2;Bez výtahu
+22353186;Petra Slezáka 446/13, Praha, 18600;22216073;2015-04-08T00:00:00;6;bytový dům;NULL;5;13;1;S výtahem
+22353267;Březinova 451/21, Praha, 18600;22216120;NULL;3;objekt k bydlení;NULL;1;17;1;S výtahem
+22353321;Křižíkova 455/70, Praha, 18600;22216162;NULL;3;objekt k bydlení;NULL;1;7;1;S výtahem
+22353330;Šaldova 456/18, Praha, 18600;22216171;NULL;3;objekt k bydlení;NULL;1;11;2;Bez výtahu
+22353364;Urxova 458/8, Praha, 18600;22216197;NULL;6;bytový dům;NULL;6;15;2;Bez výtahu
+22353437;Lyčkovo náměstí 462/9, Praha, 18600;22216235;NULL;3;objekt k bydlení;NULL;1;10;2;Bez výtahu
+22353593;Březinova 474/5, Praha, 18600;22216359;NULL;6;bytový dům;NULL;1;8;2;Bez výtahu
+22353917;Březinova 501/4, Praha, 18600;22216626;NULL;6;bytový dům;NULL;1;14;2;Bez výtahu
+22353933;Pernerova 502/52, Praha, 18600;22216634;NULL;3;objekt k bydlení;NULL;1;6;2;Bez výtahu
+22353941;Sovova 503/3, Praha, 18600;22216642;NULL;6;bytový dům;NULL;1;9;2;Bez výtahu
+22354441;Prvního pluku 539/18, Praha, 18600;22217002;NULL;3;objekt k bydlení;NULL;1;15;1;S výtahem
+22354492;Šaldova 543/8, Praha, 18600;22217037;NULL;3;objekt k bydlení;NULL;1;17;2;Bez výtahu
+22354514;Šaldova 545/4, Praha, 18600;22217053;NULL;6;bytový dům;NULL;8;17;2;Bez výtahu
+22354654;Křižíkova 556/48a, Praha, 18600;22215174;NULL;3;objekt k bydlení;NULL;5;67;1;S výtahem
+22354719;K Olympiku 564/4, Praha, 18600;22217223;NULL;3;objekt k bydlení;NULL;1;9;2;Bez výtahu
+22354808;Molákova 573/30, Praha, 18600;22217312;NULL;6;bytový dům;NULL;5;18;2;Bez výtahu
+22354859;Molákova 578/36, Praha, 18600;22217363;NULL;3;objekt k bydlení;NULL;1;0;9;Nezjištěno
+22354867;Za invalidovnou 579/3, Praha, 18600;22217371;NULL;5;objekt občanské vybavenosti;NULL;1;0;2;Bez výtahu
+22354930;Nekvasilova 586/13, Praha, 18600;22217444;NULL;6;bytový dům;NULL;1;29;1;S výtahem
+22355014;Molákova 594/16, Praha, 18600;22217509;2011-06-30T00:00:00;6;bytový dům;2294;9;230;1;S výtahem
+22355022;Molákova 595/14, Praha, 18600;22217509;2011-06-30T00:00:00;6;bytový dům;2294;9;230;1;S výtahem
+22355065;Molákova 599/6, Praha, 18600;22217509;2011-06-30T00:00:00;6;bytový dům;2294;9;230;1;S výtahem
+22355073;Molákova 600/4, Praha, 18600;22217509;2011-06-30T00:00:00;6;bytový dům;2294;9;230;1;S výtahem
+22355090;U Sluncové 602/11, Praha, 18600;22217606;NULL;3;objekt k bydlení;NULL;1;23;1;S výtahem
+22355103;U Sluncové 603/9, Praha, 18600;22217614;NULL;3;objekt k bydlení;NULL;1;30;1;S výtahem
+22355171;U Sluncové 610/13, Praha, 18600;22217681;NULL;6;bytový dům;NULL;NULL;76;NULL;NULL
+22709126;Pobřežní 620/3, Praha, 18600;22217789;NULL;14;stavba pro administrativu;NULL;12;0;1;S výtahem
+22753621;Sokolovská 629/70a, Praha, 18600;22217860;NULL;6;bytový dům;NULL;1;7;9;Nezjištěno
+25302281;Březinova 640/3a, Praha, 18600;24834025;2000-10-03T00:00:00;19;jiná stavba;NULL;1;0;9;Nezjištěno
+25435604;Kollárova 644/10a, Praha, 18600;24962813;2001-09-04T00:00:00;5;objekt občanské vybavenosti;NULL;1;0;2;Bez výtahu
+25490281;Pod výtopnou 645/8, Praha, 18600;25015702;2002-01-04T00:00:00;14;stavba pro administrativu;NULL;1;0;2;Bez výtahu
+26035740;Pernerova 652/55, Praha, 18600;25539973;2004-09-09T00:00:00;14;stavba pro administrativu;NULL;1;0;2;Bez výtahu
+72844132;Pobřežní 677/66, Praha, 18600;78164168;2011-06-30T00:00:00;6;bytový dům;427;0;16;9;Nezjištěno
+74678213;Křižíkova 684/91a, Praha, 18600;81644671;2011-06-30T00:00:00;19;jiná stavba;1288;3;0;9;Nezjištěno
+75789507;U Mlýnského kanálu 687/7, Praha, 18600;88444724;2016-12-21T00:00:00;6;bytový dům;2154;11;83;1;S výtahem
+78027543;Nekvasilova 692/29, Praha, 18600;93337329;2018-01-22T00:00:00;6;bytový dům;2416;13;135;1;S výtahem
