@@ -27,8 +27,8 @@ We would like to find out, which rows in the Building dataset (ObjectCode) are l
 The task is to try to build an analytical procedure, a classifier or predictive model which will make allow that - note that for a predictive model, you will have to find a way to make you own labels/training data.
 Use the variables to compute your own indicators if needed. Use any library, statistical method or analytical approach you find suitable or you have experience with - but be ready to explain your choice of method.
 
-Hint1: A lot about a building can be infered from the number,types and sizes of companies residing there.
-Hint2: Study the datamap.txt file to learn more about the columns
+Hint1: A lot about a building can be infered from the number,types and sizes of companies residing there. <br/>
+Hint2: Study the datamap.txt file to learn more about the columns <br/>
 Hint3: The data about buildings comes from the Czech Cadaster office and cannot be assumed 100 percent accurate - add your own logic before jumping to conclusions from fe. UsageCode
 
 ## Output
